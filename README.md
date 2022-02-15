@@ -2,9 +2,7 @@
 
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/63521b78-612e-4a2f-a409-3fa8009e7f3b/deploy-status)](https://app.netlify.com/sites/frosty-perlman-9da1cb/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=stackrole">
-<img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
-</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f9a463f-978f-4980-bec7-8492734b0e68/deploy-status)](https://app.netlify.com/sites/sleepy-brahmagupta-6458ef/deploys)
 
 # Foundation
 
@@ -23,7 +21,7 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Dark / Light Mode
 - Customize theme color from CMS
 
-    ![gatsby-starter-foundation-dark-mode.jpg](https://media.giphy.com/media/Pb4yImVfcF6MDYuuGm/giphy.gif)
+  ![gatsby-starter-foundation-dark-mode.jpg](https://media.giphy.com/media/Pb4yImVfcF6MDYuuGm/giphy.gif)
 
 - Search bar
 - Customize content of Homepage, About and Contact page.
@@ -51,14 +49,19 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 
 ### Further Instructions
 
-- [Access to Netlify CMS](#access-to-netlify-cms)
-- [Editing content and Adding posts](#editing-content-and-adding-posts)
-- [Customing Site details](#customing-site-details)
-- [Adding Custom domain to netlify website](#adding-custom-domain-to-netlify-website)
-- [Install Locally](#install-locally)
-- [Folder Structure](#folder-structure)
-- [Learning Gatsby](#learning-gatsby)
-- [Thank you from Stackrole](#thank-you)
+- [Foundation](#foundation)
+  - [👌 Features](#-features)
+  - [🚀 Quick Deploy](#-quick-deploy)
+    - [Further Instructions](#further-instructions)
+  - [⚙ Access to Netlify CMS](#-access-to-netlify-cms)
+  - [📝 Editing content and Adding posts](#-editing-content-and-adding-posts)
+  - [⚙ Customing Site details](#-customing-site-details)
+  - [🌐 Adding Custom domain to netlify website](#-adding-custom-domain-to-netlify-website)
+  - [🖥 Install Locally](#-install-locally)
+    - [Start developing](#start-developing)
+  - [📁 Folder Structure](#-folder-structure)
+  - [🎓 Learning Gatsby](#-learning-gatsby)
+  - [🙏 Thank you](#-thank-you)
 
 ## ⚙ Access to Netlify CMS
 
